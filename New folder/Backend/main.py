@@ -25,6 +25,7 @@ app.add_middleware(
 def search(job: JobDescription):
     try:
         matches = search_resumes(job.jd)
+        print(matches)
         return {"results": matches}
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
@@ -46,6 +47,7 @@ def send_invite(req: InterviewInviteRequest):
 def get_resume(sql_id: int):
     try:
         resume = db.get_resume_by_sql_id(sql_id)
+        print(resume)
         return {"resume": resume}
     except FileNotFoundError:
         raise HTTPException(status_code=404, detail="Resume not found")
