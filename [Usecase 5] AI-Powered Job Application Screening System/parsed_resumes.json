@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Alyssa Chavez",
+        "email": "alyssachavez88@gmail.com",
+        "phone": "+1-465-3587",
+        "skills": [
+            "Cybersecurity - Skilled in penetration testing, risk assessment, and securing enterprise networks against cyber threats."
+        ],
+        "education": [
+            "Diploma in Software Engineering (2013-2015)",
+            "Hands-on experience in full-stack web development and mobile app creation."
+        ],
+        "experience": [
+            "Data Scientist at ABC Inc. (2019-2023)",
+            "Built predictive models that enhanced decision-making processes, reducing operational costs by 25%."
+        ],
+        "certifications": [
+            "AWS Certified Solutions Architect - Validated expertise in designing and deploying scalable AWS solutions, optimizing performance and security."
+        ],
+        "achievements": [
+            "Published a research paper on AI ethics - Contributed to an AI ethics framework adopted by industry leaders, shaping responsible AI development."
+        ],
+        "tech_stack": [
+            "Java",
+            "Spring Boot",
+            "MySQL",
+            "Kafka",
+            "Azure DevOps"
+        ],
+        "resume_id": [
+            "C1061"
+        ],
+        "other_info": []
+    },
+    {
+        "name": "Scott Saunders",
+        "email": "scottsaunders13@gmail.com",
+        "phone": "+1-367-5130",
+        "skills": [
+            "Python & Machine Learning - Proficient in TensorFlow, PyTorch, and Scikit-learn with hands-on experience in deploying AI solutions."
+        ],
+        "education": [
+            "Bachelor of Engineering in Information Technology (2014-2018)",
+            "Concentrated on database management, networking, and cybersecurity.",
+            "Master of Business Administration (2017-2019)",
+            "Focused on Business Strategy, Financial Analysis, and Operations Management.",
+            "Ph.D. in Artificial Intelligence (2016-2021)",
+            "Research in NLP and Computer Vision, with publications in top-tier conferences."
+        ],
+        "experience": [
+            "Software Engineer at XYZ Corp (2018-2022)",
+            "Developed scalable backend applications, improved system efficiency by 30%, and led agile development sprints.",
+            "Developed an AI chatbot - Built a chatbot that reduced customer support tickets by 40%, enhancing user experience and efficiency."
+        ],
+        "certifications": [
+            "AWS Certified Solutions Architect - Validated expertise in designing and deploying scalable AWS solutions, optimizing performance and security."
+        ],
+        "achievements": [],
+        "tech_stack": [
+            "TensorFlow",
+            "PyTorch",
+            "Scikit-learn",
+            "AWS",
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "PostgreSQL",
+            "Docker",
+            "Kubernetes"
+        ],
+        "resume_id": [
+            "C1070"
+        ],
+        "other_info": []
+    },
+    {
+        "name": "Pamela Kerr",
+        "email": "pamelakerr20@gmail.com",
+        "phone": "+1-453-5337",
+        "skills": [
+            "Cybersecurity",
+            "Penetration testing",
+            "Risk assessment",
+            "Securing enterprise networks",
+            "Ethical hacking",
+            "Network security",
+            "Vulnerability assessment"
+        ],
+        "education": [
+            "Ph.D. in Artificial Intelligence (2016-2021)",
+            "Research in NLP and Computer Vision, with publications in top-tier conferences.",
+            "Diploma in Software Engineering (2013-2015)",
+            "Hands-on experience in full-stack web development and mobile app creation."
+        ],
+        "experience": [
+            "Software Engineer at XYZ Corp (2018-2022)",
+            "Developed scalable backend applications, improved system efficiency by 30%, and led agile development sprints."
+        ],
+        "certifications": [
+            "Certified Ethical Hacker (CEH) - Demonstrated proficiency in ethical hacking, network security, and vulnerability assessment."
+        ],
+        "achievements": [
+            "Developed an AI chatbot - Built a chatbot that reduced customer support tickets by 40%, enhancing user experience and efficiency."
+        ],
+        "tech_stack": [
+            "NLP",
+            "Computer Vision",
+            "Full-stack web development",
+            "Mobile app creation",
+            "Backend applications",
+            "AI chatbot",
+            "Python",
+            "TensorFlow",
+            "PyTorch",
+            "PostgreSQL",
+            "Docker",
+            "Kubernetes"
+        ],
+        "resume_id": [
+            "C1080"
+        ],
+        "other_info": []
+    },
+    {
+        "name": "Joseph Sexton",
+        "email": "josephsexton49@gmail.com",
+        "phone": "+1-495-2811",
+        "skills": [
+            "Cloud Computing - Expert in AWS, Azure, and GCP; implemented scalable cloud architectures for enterprise applications."
+        ],
+        "education": [
+            "Diploma in Software Engineering (2013-2015)",
+            "Master of Science in Data Science (2019-2021)",
+            "Ph.D. in Artificial Intelligence (2016-2021)"
+        ],
+        "experience": [
+            "Data Scientist at ABC Inc. (2019-2023)",
+            "Built predictive models that enhanced decision-making processes, reducing operational costs by 25%.",
+            "Developed an AI chatbot - Built a chatbot that reduced customer support tickets by 40%, enhancing user experience and efficiency."
+        ],
+        "certifications": [
+            "AWS Certified Solutions Architect - Validated expertise in designing and deploying scalable AWS solutions, optimizing performance and security."
+        ],
+        "achievements": [],
+        "tech_stack": [
+            "AWS",
+            "Azure",
+            "GCP",
+            "Java",
+            "Spring Boot",
+            "MySQL",
+            "Kafka",
+            "Azure DevOps"
+        ],
+        "resume_id": [
+            "C1796"
+        ],
+        "other_info": [
+            "Hands-on experience in full-stack web development and mobile app creation.",
+            "Gained expertise in machine learning, big data analytics, and statistical modeling.",
+            "Research in NLP and Computer Vision, with publications in top-tier conferences."
+        ]
+    }
+]
