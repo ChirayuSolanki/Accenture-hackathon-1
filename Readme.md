@@ -16,9 +16,9 @@ Firstly change .env file, change the path variable, paste your API KEY's, and yo
 
 ## Ingestion
 
-**WARNING - If you're not setting up your own pinecone, please do not run Ingestion pipeline.**
+**WARNING - If you're not setting up your own pinecone, please do not run Ingestion pipeline. Jump to Backend..**
 
-If you want to save the data in your OWN VECTOR DB you have to run ingestion pipeline else you can skip this step.
+If you want to save the data in your OWN VECTOR DB you have to run ingestion pipeline, after setting up the pinecone you have to run main file..
 
 For Now you can use my pinecone.But you have to set the llama cloud API key in .env.
 
