@@ -6,9 +6,21 @@ The Only things you need to run this project is LLAMA CLOUD API key * and Pineco
 
 We are able to build this project in just 8 hour time frame. The future scope of this project can be unimaginable, it can be more scalable and efficient.
 
+### Setting up pinecone 
+
+To set up pinecone, sign up on pinecone and create index with 384 dimensios.(if you're using embedding models of dimensions 384 else adjust accordingly).
+
 # How to run ?!
 
 Firstly change .env file, change the path variable, paste your API KEY's, and your gmail id and gmail id 'APP' password(not gmail passowrd, but gmail id APP password).
+
+## Ingestion
+
+**WARNING - If you're not setting up your own pinecone, please do not run Ingestion pipeline.**
+
+If you want to save the data in your OWN VECTOR DB you have to run ingestion pipeline else you can skip this step.
+
+For Now you can use my pinecone.But you have to set the llama cloud API key in .env.
 
 ## Backend
 
@@ -22,6 +34,5 @@ To run backend follow this steps..
 
 1. to run frontend on streamlit, go to frontend directory
 2. and then run 'streamlit run app.py'
-
 
 Now you're good to go..
